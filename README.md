@@ -1,1 +1,0 @@
-# Sports-Celebrity-Recognition-Using-Feature-Engineering-Wavelet-Transform-and-Supervised-Learning
